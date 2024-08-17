@@ -26,7 +26,7 @@ const App: Component = () => {
               <p>
                 <a href="https://store.steampowered.com/app/934780/American_Fugitive/" target='_blank'>Steam link</a>
                 <br></br>
-                <a href="https://github.com/cc0d35/american-fugitive-save-editor" target='_blank'>Github repository of this project</a>
+                <a href="https://github.com/somrlik/american-fugitive-save-editor" target='_blank'>Github repository of this project</a>
               </p>
               <p class="h2">Savegame Location</p>
               <p>
