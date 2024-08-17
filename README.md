@@ -16,7 +16,7 @@ This is a savegame editor for American Fugitive.
 
 ## Available Online
 
-Available online at [karelsyrovy.cz][https://karelsyrovy.cz/apps/american-fugitive-save-editor].
+Available online at [karelsyrovy.cz](https://karelsyrovy.cz/apps/american-fugitive-save-editor).
 
 TODO: Setup github pages for this repo...?
 
